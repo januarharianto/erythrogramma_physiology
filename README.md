@@ -1,2 +1,22 @@
-# erythrogramma_physiology
-Impacts of acclimation in marine heat wave and acidification conditions on the physiology of the sea urchin, Heliocidaris erythrogramma and carry over effects for juvenile offspring
+# About
+
+Data for unpublished manuscript. This readme will be updated once the manuscript has passed peer review.
+
+# Files
+
+Data is roughly divided into two groups:
+
+1. Adult measurements
+2. Larval/juvenile measurements
+
+
+## Adult measurements
+
+- feeding rate
+- excretion rate 
+- metabolic rate
+
+# Larval/juvenile  measurements
+
+- feeding rate
+- metabolic rate
