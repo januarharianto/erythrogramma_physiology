@@ -1,6 +1,7 @@
 # About
 
-Data for unpublished manuscript. This readme will be updated once the manuscript has passed peer review.
+This repository will contain data from my published manuscripts.
+Will update with more informaton soon. Data from past publications will be included at some point with DOI.
 
 # Files
 
